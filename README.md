@@ -1,0 +1,2 @@
+# ScUpdateChecker
+ScUpdateChecker
